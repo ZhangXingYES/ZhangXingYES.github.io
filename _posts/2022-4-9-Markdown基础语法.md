@@ -58,7 +58,7 @@ title: Markdown基本语法
 //举例：![11](https://i0.hdslb.com/bfs/archive/ca375eb31fa90b8e23b88ed3433c2f60de1c2e6e.png)
 ```
 
-![11](//i0.hdslb.com/bfs/archive/ca375eb31fa90b8e23b88ed3433c2f60de1c2e6e.png)
+![11](https://i0.hdslb.com/bfs/archive/ca375eb31fa90b8e23b88ed3433c2f60de1c2e6e.png)
 
 ## 七，超链接
 
