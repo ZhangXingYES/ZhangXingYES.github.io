@@ -1,6 +1,6 @@
 ---
-layout:article
-title:Markdown基础语法
+layout:"article"
+title:"Markdown基础语法"
 ---
 
 ## 一，标题
