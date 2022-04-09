@@ -84,5 +84,5 @@ Markdown的原生语法复杂，Typora用户：右键插入或快捷键（Ctrl+T
 
 ## 十，特殊符号
 
-![特殊符号]({{ site.url }}/assets/特殊符号.jpg)
+![特殊符号]({{ site.url }}/assets/images/特殊符号.jpg)
 
