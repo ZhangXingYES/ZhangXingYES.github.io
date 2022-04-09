@@ -56,9 +56,12 @@ title: Markdown基本语法
 ```c
 //添加图片的格式：![图片的描述](图片的位置,本地或网络上的位置)
 //举例：![11](https://i0.hdslb.com/bfs/archive/ca375eb31fa90b8e23b88ed3433c2f60de1c2e6e.png)
-```
 
-![11](https://i0.hdslb.com/bfs/archive/ca375eb31fa90b8e23b88ed3433c2f60de1c2e6e.png)
+//说明：要写博客的话，这种方式没法在博客中显示图片
+//解决方法：利用github做图床，将图片存在(本地仓库路径)assets/images下
+//在Typora中插入图片：![图片描述]({{ site.url }}/assets/images/图片名)
+//但在本地不会显示
+```
 
 ## 七，超链接
 
